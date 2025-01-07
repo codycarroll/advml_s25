@@ -63,11 +63,11 @@ When in doubt, rely on the following:
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 1/21 & 1/23 | Intro, SVD | Sec. |   |
-|Week 2| 1/28 & 1/30  | PCA & Start Recommender Systems | Sec. | [HW1 Due](https://github.com/codycarroll/tree/advml_s25/main/HW/) |
-|Week 3| 2/4 & 2/6 | Recommender Systems + PyTorch| Sec. | [HW2 Due](https://github.com/codycarroll/tree/advml_s25/main/HW/)|
-|Week 4| 2/11 & 2/13 | | AdaBoost + Gradient Boosting| [HW3 Due](https://github.com/codycarroll/tree/advml_s25/main/HW/) + Quiz 1|
-|Week 5| 2/18 & 2/20 |AdaBoost + Gradient Boosting|  | [HW4 Due](https://github.com/codycarroll/tree/advml_s25/main/HW/) |
-|Week 6| 2/25 & 2/27 | Neural Networks & PyTorch | | [HW5 Due](https://github.com/codycarroll/tree/advml_s25/main/HW/)  |
+|Week 2| 1/28 & 1/30  | PCA & Start Recommender Systems | Sec. | [HW1 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
+|Week 3| 2/4 & 2/6 | Recommender Systems + PyTorch| Sec. | [HW2 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)|
+|Week 4| 2/11 & 2/13 | | AdaBoost + Gradient Boosting| [HW3 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) + Quiz 1|
+|Week 5| 2/18 & 2/20 |AdaBoost + Gradient Boosting|  | [HW4 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
+|Week 6| 2/25 & 2/27 | Neural Networks & PyTorch | | [HW5 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)  |
 |Week 7| 3/4 & 3/6| Catch Up Day + Final Project Presentations | | Presentations +  Quiz 2  |
 |Week 8 | 3/11 & 3/13 |  Spring Break  | - | Freedom! |
 
