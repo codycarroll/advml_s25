@@ -1,2 +1,3 @@
-# advml_s25
-repository for advanced ML spring 2025
+# Advanced Machine Learning 
+# Spring 2025
+Repository for Advanced ML Spring 2025
