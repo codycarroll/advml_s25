@@ -13,15 +13,14 @@
 **Books**: 
  Pattern Recognition and Machine Learning. Bishop. [Link](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 
- The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Trevor Hastie, Robert Tibshirani, Jerome Friedman. [Link](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
+ The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Trevor Hastie, Robert Tibshirani, Jerome Friedman. [Link](https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf)
 
  Deep Learning. Ian Goodfellow and Yoshua Bengio and Aaron Courville.  [Link](http://www.deeplearningbook.org/)
 
- Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman (Chapters 8, 9). [Link](www.mmds.org)
+ Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman and Jeffrey D. Ullman. [Link](http://www.mmds.org)
 
- Machine Learning: A Probabilistic Perspective. Kevin Murphy.
+ Probabilistic Machine Learning. Kevin Murphy. [Link](https://probml.github.io/pml-book/book1.html)
 
-**Syllabus**: [Link](https://github.com/codycarroll/advml_s25/blob/main/Syllabus/MSDS_630-S25-Syllabus.pdf)
 
 ## Course Learning Objectives:
 
@@ -62,12 +61,13 @@ When in doubt, rely on the following:
 *subject to change
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
-|Week 1| 1/21 & 1/23 | Intro, SVD | Sec. |   |
-|Week 2| 1/28 & 1/30  | PCA & Start Recommender Systems | Sec. | [HW1 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
-|Week 3| 2/4 & 2/6 | Recommender Systems + PyTorch| Sec. | [HW2 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)|
-|Week 4| 2/11 & 2/13 | | AdaBoost + Gradient Boosting| [HW3 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) + Quiz 1|
-|Week 5| 2/18 & 2/20 |AdaBoost + Gradient Boosting|  | [HW4 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
-|Week 6| 2/25 & 2/27 | Neural Networks & PyTorch | | [HW5 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)  |
+|Week 1| 1/21 & 1/23 | Intro, SVD | Sec. | Sec. 11.3 from MoMD  |
+|Week 2| 1/28 & 1/30  | PCA & Start Recommender Systems | Sec. 14.5.1 from ESL, Sec. 11.2 from MoMD, & Chapter 9 from MoMD | [HW1 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
+|Week 3| 2/4 & 2/6 | Recommender Systems + PyTorch| Chapter 9 from MoMD | [HW2 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)|
+|Week 4| 2/11 & 2/13 |  AdaBoost + Gradient Boosting| Ch. 18 of PML; Ch. 10 of ESL
+| [HW3 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) + Quiz 1|
+|Week 5| 2/18 & 2/20 |AdaBoost + Gradient Boosting| Ch. 18 of PML; Ch. 10 of ESL | [HW4 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/) |
+|Week 6| 2/25 & 2/27 | Neural Networks & PyTorch | Ch. 13 of PML; Ch. 6 of DL | [HW5 Due](https://github.com/codycarroll/advml_s25/tree/main/HW/)  |
 |Week 7| 3/4 & 3/6| Catch Up Day + Final Project Presentations | | Presentations +  Quiz 2  |
 |Week 8 | 3/11 & 3/13 |  Spring Break  | - | Freedom! |
 
