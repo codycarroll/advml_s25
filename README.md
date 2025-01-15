@@ -105,7 +105,7 @@ Professional behavior is expected both during classtime and outside of class whe
 
 **Final Project 25%**
 
-The final project will be a computational group case study that brings together the techniques learned throughout the semester. The project description and groups will be published on Canvas. A final report of the project is due by the end of the module, Saturday Oct 12 at 11:59p. 
+The final project will be a computational group case study that brings together the techniques learned throughout the semester. The project description and groups will be published on Canvas. A final report of the project is due by Wednesday  Mar 5 at 11:59p. 
 
 
 
