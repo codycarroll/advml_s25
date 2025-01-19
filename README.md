@@ -7,7 +7,7 @@
 
 **Class Time**: TR 10a-12p or 1p-3p in SFD 529
 
-**Office Hours**:  Tuesdays 3:30p-4:30p in person (SFD 529) and  Mondays 1p-2p on [Zoom](https://usfca.zoom.us/my/cody.carroll) 
+**Office Hours**:  Tuesdays 3:30p-4:30p in person (SFD 529) and  Mondays 12p-1p on [Zoom](https://usfca.zoom.us/my/cody.carroll) 
 (subject to change during quiz weeks - watch the course slack!)
 
 **Books**: 
