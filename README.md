@@ -97,7 +97,7 @@ Professional behavior is expected both during classtime and outside of class whe
 
 **Quizzes: 50%**
 
-- You will be required to complete 2 quizzes, tentatively scheduled for: Thurs, Sept 12 and Thurs, Oct 3.  All quizzes will be closed book. Details will be discussed in classes leading up to quiz dates.
+- You will be required to complete 2 quizzes.  All quizzes will be closed book. Details will be discussed in classes leading up to quiz dates.
 
 - **In order to pass this class, your average quiz grade for this section must be at least 60%.**
 
